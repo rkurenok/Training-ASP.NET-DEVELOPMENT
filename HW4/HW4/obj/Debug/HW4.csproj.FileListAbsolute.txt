@@ -1,0 +1,14 @@
+D:\Универ\6 семестр\Тренинг\HomeWork\HW4\HW4\bin\Debug\HW4.exe.config
+D:\Универ\6 семестр\Тренинг\HomeWork\HW4\HW4\bin\Debug\HW4.exe
+D:\Универ\6 семестр\Тренинг\HomeWork\HW4\HW4\bin\Debug\HW4.pdb
+D:\Универ\6 семестр\Тренинг\HomeWork\HW4\HW4\obj\Debug\HW4.csprojAssemblyReference.cache
+D:\Универ\6 семестр\Тренинг\HomeWork\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+D:\Универ\6 семестр\Тренинг\HomeWork\HW4\HW4\obj\Debug\HW4.exe
+D:\Универ\6 семестр\Тренинг\HomeWork\HW4\HW4\obj\Debug\HW4.pdb
+D:\Универ\6 семестр\Тренинг\HomeWork4\HW4\HW4\bin\Debug\HW4.exe.config
+D:\Универ\6 семестр\Тренинг\HomeWork4\HW4\HW4\bin\Debug\HW4.exe
+D:\Универ\6 семестр\Тренинг\HomeWork4\HW4\HW4\bin\Debug\HW4.pdb
+D:\Универ\6 семестр\Тренинг\HomeWork4\HW4\HW4\obj\Debug\HW4.csprojAssemblyReference.cache
+D:\Универ\6 семестр\Тренинг\HomeWork4\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+D:\Универ\6 семестр\Тренинг\HomeWork4\HW4\HW4\obj\Debug\HW4.exe
+D:\Универ\6 семестр\Тренинг\HomeWork4\HW4\HW4\obj\Debug\HW4.pdb
