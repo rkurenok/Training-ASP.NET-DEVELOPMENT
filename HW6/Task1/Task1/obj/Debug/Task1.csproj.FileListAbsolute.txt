@@ -1,0 +1,7 @@
+D:\Универ\6 семестр\Тренинг\HW6\Task1\Task1\bin\Debug\Task1.exe.config
+D:\Универ\6 семестр\Тренинг\HW6\Task1\Task1\bin\Debug\Task1.exe
+D:\Универ\6 семестр\Тренинг\HW6\Task1\Task1\bin\Debug\Task1.pdb
+D:\Универ\6 семестр\Тренинг\HW6\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+D:\Универ\6 семестр\Тренинг\HW6\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Универ\6 семестр\Тренинг\HW6\Task1\Task1\obj\Debug\Task1.exe
+D:\Универ\6 семестр\Тренинг\HW6\Task1\Task1\obj\Debug\Task1.pdb
